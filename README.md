@@ -76,7 +76,7 @@ Displays a summary of the day’s meals and total calorie intake.
 Enables users to add a new meal, including name, calories, and time.
 
 <div align="center">
-  <img src="screenshots/AddMealScreen.png" alt="Add Meal Screen" width="300"/>
+  <img src="screenshots/AddScreen.png" alt="Add Meal Screen" width="300"/>
 </div>
 
 ---
