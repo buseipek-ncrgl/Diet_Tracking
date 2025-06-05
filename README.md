@@ -18,10 +18,10 @@ With offline support and a focus on simplicity, NutriTrack helps users stay on t
 
 ## 🛠️ Tech Stack
 
-- [React Native](https://reactnative.dev/)
-- [Expo](https://expo.dev/)
-- [SQLite](https://docs.expo.dev/versions/latest/sdk/sqlite/)
-- Platforms: **Android & iOS**
+Frontend: React Native (Expo)
+Database: SQLite
+Language: JavaScript
+Platform: Android & iOS
 
 ---
 
@@ -90,11 +90,11 @@ Displays user progress toward weekly goals (e.g., calories, nutrients) using sum
 
 ---
 
-### 📈 Calorie Tracking Screen  
-Provides a visual overview of daily calorie trends and progress.
+### 📈 Profile Screen  
+Allows users to set daily calorie goals and limits for personalized tracking.
 
 <div align="center">
-  <img src="screenshots/CalorieTrackingScreen.png" alt="Calorie Tracking Screen" width="300"/>
+  <img src="screenshots/GoalScreen.png" alt="Profile Screen" width="300"/>
 </div>
 
 ---
