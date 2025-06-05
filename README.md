@@ -1,6 +1,6 @@
-# 📱 NutriTrack
+# 📱 NutrieTrack
 
-**NutriTrack** is a mobile diet tracking application developed as part of the *Multi-Platform Application Development* course. Built using **React Native** with **Expo** and **SQLite** for local data storage, it allows users to log daily meals, track calorie intake, and monitor nutritional habits through a clean and user-friendly interface.
+**NutrieTrack** is a mobile diet tracking application developed as part of the *Multi-Platform Application Development* course. Built using **React Native** with **Expo** and **SQLite** for local data storage, it allows users to log daily meals, track calorie intake, and monitor nutritional habits through a clean and user-friendly interface.
 
 With offline support and a focus on simplicity, NutriTrack helps users stay on top of their dietary goals—even without an internet connection.
 
@@ -124,8 +124,8 @@ To run this project locally:
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/NutriTrack.git
-cd NutriTrack
+git clone https://github.com/your-username/NutrieTrack.git
+cd NutrieTrack
 ```
 
 2. Install dependencies:
