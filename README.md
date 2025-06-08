@@ -124,7 +124,7 @@ To run this project locally:
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/NutrieTrack.git
+git clone https://github.com/buseipek-ncrgl/NutrieTrack.git
 cd NutrieTrack
 ```
 
